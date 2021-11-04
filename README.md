@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MariangellACT?color=%231DA1F2&label=Mariangel-99&logo=twitter&style=for-the-badge)](https://twitter.com/)
 
-¿Qué hago? ¿Qué me gusta? 
+¿Qué hago? ¿Qué me gusta ? <br>
 Abajo las respuestas
 
 - 🔭 Estoy trabajandando en el desarrollo de mi conocimiento ¿quieres aportar?
