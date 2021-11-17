@@ -4,8 +4,7 @@
 
 ¿Qué hago? ¿Qué me gusta ? <br>
 Abajo las respuestas
-
-- 🔭 Estoy trabajandando en el desarrollo de mi conocimiento ¿quieres aportar?
+- 🔭 Estoy trabajando en el desarrollo de mi conocimiento ¿Quieres aportar?
 - 🌱 Estudio DAM en el IES Luis Vives
 - 👯 Estoy colaborando con grandes compañeros del Luis Vives
 - ⚡ Hagamos cosas divertidas
